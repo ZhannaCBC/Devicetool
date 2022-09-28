@@ -1,0 +1,366 @@
+{
+    "packages": [
+        {
+            "name": "7zip.install",
+            "desc": "7-Zip is a file archiver with a high compression ratio.",
+            "url": "https://chocolatey.org/packages/7zip.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "adoptopenjdk",
+            "desc": "AdoptOpenJDK provides prebuilt OpenJDK build binaries. This one uses OpenJDK_HotSpot.",
+            "url": "https://chocolatey.org/packages/adoptopenjdk",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "adoptopenjdkjre",
+            "desc": "AdoptOpenJDK provides prebuilt OpenJDK build binaries. This one uses OpenJDK_HotSpot.",
+            "url": "https://chocolatey.org/packages/adoptopenjdkjre",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "chocolateygui",
+            "desc": "A GUI for Chocolatey",
+            "url": "https://chocolatey.org/packages/ChocolateyGUI",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "docker-desktop",
+            "desc": "A complete and easy-to-install desktop application for building, debugging and testing containerized apps on Windows.",
+            "url": "https://chocolatey.org/packages/docker-desktop/2.3.0.4",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "dos2unix",
+            "desc": "Text file format converters",
+            "url": "https://chocolatey.org/packages/dos2unix",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "fiddler",
+            "desc": "The free web debugging proxy for any browser, system or platform.",
+            "url": "https://chocolatey.org/packages/fiddler",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "firefox",
+            "desc": "Bringing together all kinds of awesomeness to make browsing better for you",
+            "url": "https://chocolatey.org/packages/Firefox",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "foxitreader",
+            "desc": "Foxit Reader: The Best PDF Reader",
+            "url": "https://chocolatey.org/packages/FoxitReader",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "gimp",
+            "desc": "GNU Image Manipulation Program",
+            "url": "https://chocolatey.org/packages/gimp",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "git.install",
+            "desc": "Git for Windows offers a native set of tools that bring the full feature set of the Git SCM to Windows",
+            "url": "https://chocolatey.org/packages/git.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "gitversion.portable",
+            "desc": "Derives SemVer information from a repository following GitFlow or GitHubFlow.",
+            "url": "https://chocolatey.org/packages/GitVersion.Portable",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "googlechrome",
+            "desc": "Chrome is a fast, simple, and secure web browser, built for the modern web.",
+            "url": "https://chocolatey.org/packages/GoogleChrome",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "gotomeeting",
+            "desc": "GotoMeeting - Online Meetings Made Easy",
+            "url": "https://chocolatey.org/packages/gotomeeting",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "heidisql",
+            "desc": "HeidiSQL is a useful and reliable tool designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL.",
+            "url": "https://chocolatey.org/packages/HeidiSQL",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "irfanview",
+            "desc": "Fast and compact image viewer and converter",
+            "url": "https://chocolatey.org/packages/IrfanView",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "irfanview-shellextension",
+            "desc": "Shell extension for IrfanView",
+            "url": "https://chocolatey.org/packages/irfanview-shellextension",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "irfanviewplugins",
+            "desc": "Additional plugins for IrFanView",
+            "url": "https://chocolatey.org/packages/irfanviewplugins",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "javaruntime",
+            "desc": "JAVA Runtime",
+            "url": "https://chocolatey.org/packages/javaruntime",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "k9s",
+            "desc": " K9s is a terminal based UI to interact with your Kubernetes clusters. ",
+            "url": "https://chocolatey.org/packages/k9s",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "kubernetes-cli",
+            "desc": "Kubernetes is an open source system for managing containerized applications across multiple hosts",
+            "url": "https://chocolatey.org/packages/kubernetes-cli",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "kubernetes-helm",
+            "desc": "Helm is the best way to find, share, and use software built for Kubernetes.",
+            "url": "https://chocolatey.org/packages/kubernetes-helm",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "microsoft-windows-terminal",
+            "desc": "Windows Terminal",
+            "url": "https://chocolatey.org/packages/microsoft-windows-terminal/1.2.2381.0",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "mkcert",
+            "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+            "url": "https://chocolatey.org/packages/mkcert",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "mremoteng",
+            "desc": "mRemoteNG is a fork of mRemote, an open source, tabbed, multi-protocol, remote connections manager.",
+            "url": "https://chocolatey.org/packages/mRemoteNG",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "mysql.workbench",
+            "desc": "MySQL Workbench (GUI Tool)",
+            "url": "https://chocolatey.org/packages/mysql.workbench",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "nodejs.install",
+            "desc": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine",
+            "url": "https://chocolatey.org/packages/nodejs.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "notepadplusplus.install",
+            "desc": "Notepad++ is a free source code editor and Notepad replacement that supports several languages.",
+            "url": "https://chocolatey.org/packages/notepadplusplus.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "paint.net",
+            "desc": "Paint.NET is image and photo manipulation software designed to be used on computers that run Windows.",
+            "url": "https://chocolatey.org/packages/paint.net",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "phpstorm",
+            "desc": "PHPStorm - Lightning-smart PHP IDE",
+            "url": "https://chocolatey.org/packages/phpstorm",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "plantuml",
+            "desc": "PlantUML is a component that allows to quickly write UML diagrams using simple and intuitive language.",
+            "url": "https://chocolatey.org/packages/plantuml",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "poshgit",
+            "desc": "Provides prompt with Git status summary information and tab completion for Git commands, parameters, remotes and branch names.",
+            "url": "https://chocolatey.org/packages/poshgit",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "putty.install",
+            "desc": "PuTTY is a free implementation of Telnet and SSH for Windows and Unix platforms, along with an xterm terminal emulator.",
+            "url": "https://chocolatey.org/packages/putty.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "robo3t.install",
+            "desc": "MongoDB management tool",
+            "url": "https://chocolatey.org/packages/robo3t.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "slack",
+            "desc": "Slack for Windows",
+            "url": "https://chocolatey.org/packages/slack",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "softerraldapbrowser",
+            "desc": "Browse LDAP directories",
+            "url": "https://chocolatey.org/packages/softerraldapbrowser",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "staruml3",
+            "desc": "A sophisticated software modeler for agile and concise modeling",
+            "url": "https://chocolatey.org/packages/staruml3",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "velocity",
+            "desc": "Velocity gives your Windows desktop offline access to over 150 API documentation sets.",
+            "url": "https://chocolatey.org/packages/velocity",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "vscode.install",
+            "desc": "Visual Studio Code IDE",
+            "url": "https://chocolatey.org/packages/vscode.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "wget",
+            "desc": "GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols.",
+            "url": "https://chocolatey.org/packages/Wget",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "winmerge",
+            "desc": "WinMerge is a software tool for file comparison, as well as merge.",
+            "url": "https://chocolatey.org/packages/winmerge",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "winrar",
+            "desc": "A powerful archive manager",
+            "url": "https://chocolatey.org/packages/winrar",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "winscp.install",
+            "desc": "Open source free SFTP client, SCP client, FTPS client and FTP client ",
+            "url": "https://chocolatey.org/packages/winscp.install",
+            "tags": {
+                "work": ""
+            }
+        },
+        {
+            "name": "yed",
+            "desc": "yEd Graph Editor: High-quality diagrams made easy",
+            "url": "https://chocolatey.org/packages/yed",
+            "tags": {
+                "home": "",
+                "work": ""
+            }
+        },
+        {
+            "name": "zoom",
+            "desc": "Zoom unifies cloud video conferencing",
+            "url": "https://chocolatey.org/packages/zoom",
+            "tags": {
+                "work": ""
+            }
+        }
+    ]
+}
+
